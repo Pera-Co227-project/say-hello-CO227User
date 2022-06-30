@@ -6,6 +6,6 @@ class hello {
     System.out.println("Enter name");
 //Write your code here
     String userName = myObj.nextLine();  // Read user input
-    System.out.println("Username is: " + userName);  // Output user input
+    System.out.println("Hello " + userName);  // Output user input
   }
 }
